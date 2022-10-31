@@ -1,0 +1,9 @@
+print("Digite o valor do lado A: ")
+a = float(input())
+
+print("Digite o valor do lado B: ")
+b = float(input())
+
+dbArea = 2*(a*b)
+
+print("O dobro da área desse quadro é igual a ", dbArea)
